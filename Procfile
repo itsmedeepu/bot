@@ -1,1 +1,1 @@
-Main=py bot.py
+Main=python bot.py
